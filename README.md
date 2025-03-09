@@ -1,3 +1,3 @@
 # TFM-Control-de-Acceso_Versiones
 TFM Correcciones de Control de Acceso Vs1
-Este proyecto consiste en un sistema de gestión y autenticación de usuarios y dispositivos en una red segura, desarrollado utilizando Flask. El sistema permite la autenticación mediante el protocolo WPA3 con soporte para RADIUS, asegurando que solo los dispositivos autorizados puedan acceder a la red.
+
